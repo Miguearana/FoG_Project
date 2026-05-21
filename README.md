@@ -43,7 +43,7 @@ the basis of this framework.
 
 ## Methods
 
-- **Feature extraction:** Band power (dB, Welch PSD) from 10 neuroanatomically justified
+- **Feature extraction:** Band power (dB, Welch PSD) from 11 neuroanatomically justified
   EEG channels × 4 frequency bands (delta, theta, alpha, beta), combined with kinematic
   and electromyographic features.
 - **Classifier:** Random Forest (n=200 estimators, max depth=8, balanced class weights).
@@ -84,7 +84,6 @@ code/
 ├── signal_quality.py               # EEG quality metrics (HF/LF ratio, kurtosis)
 ├── alpha_beta_coupling.py          # Alpha–beta Pearson correlation, subtype analysis
 ├── feature_importance_analysis.py  # RF feature importance heatmap (channels × bands)
-├── publication_figures.py          # Group PSD, boxplots, subtype figures
 └── narrative_figures.py            # Per-patient delta, LOPO vs within-patient, A–B scatter
 ```
 
