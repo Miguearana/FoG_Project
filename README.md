@@ -67,9 +67,9 @@ the basis of this framework.
    indicating that kinematic features dominate FoG detection.
 
 3. **Two cortical subtypes exist.** Spectral analysis reveals inter-patient heterogeneity:
-   - **Subtype A:** delta suppression + alpha and beta hypersynchrony during FoG (consistent with literature)
-   - **Subtype B:** delta suppression without cortical hypersynchrony, suggesting a
-     distinct, potentially subcortical mechanism
+   - **Subtype A:** delta decrease + alpha and beta synchrony during FoG. 
+   - **Subtype B:** delta decrease without cortical hypersynchrony, suggesting a
+     distinct, potentially subcortical mechanism.
 
 ---
 
