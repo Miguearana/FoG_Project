@@ -84,7 +84,7 @@ code/
 ├── signal_quality.py               # EEG quality metrics (HF/LF ratio, kurtosis)
 ├── alpha_beta_coupling.py          # Alpha–beta Pearson correlation, subtype analysis
 ├── feature_importance_analysis.py  # RF feature importance heatmap (channels × bands)
-├── figures.py
+├── figures.py                      # Group PSD, boxplots, subtype figures 
 └── narrative_figures.py            # Per-patient delta, LOPO vs within-patient, A–B scatter
 ```
 
