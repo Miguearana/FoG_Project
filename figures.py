@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Publication-quality figures for TFG:
+Figures for project:
   Fig 1 — Group PSD (Normal vs FoG, mean ± SEM) + band power boxplots
   Fig 2 — Subtype A vs Subtype B PSD comparison (diverging alpha/beta)
 """
