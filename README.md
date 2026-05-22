@@ -36,7 +36,7 @@ the basis of this framework.
 
 - **Source:** Zhang et al. (2022), *Scientific Data* — DOI: [10.17632/r8gmbtv7w2.3](https://doi.org/10.17632/r8gmbtv7w2.3)
 - The only publicly available database combining simultaneous EEG, EMG, and IMU recordings in PD patients with FoG.
-- 9 patients included in analysis; FoG episodes labeled by two qualified physicians.
+- 10 patients included in analysis; FoG episodes labeled by two qualified physicians.
 - Modalities: EEG (25 channels, 500 Hz), EMG (5 channels), ACC/GYRO (lower limbs, trunk, arm).
 
 ---
