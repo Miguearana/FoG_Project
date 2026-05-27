@@ -98,7 +98,6 @@ numpy
 scipy
 scikit-learn
 matplotlib
-mne
 pandas
 ```
 
