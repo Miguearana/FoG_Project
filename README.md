@@ -76,7 +76,6 @@ the basis of this framework.
 ## Repository Structure
 
 ```text
-code/
 ├── multi_patient_pipeline.py       # Main ML pipeline: feature extraction, LOPO, within-patient CV
 ├── apply_fog_labels.py             # Transfers physician labels by timestamp alignment
 ├── group_stats.py                  # Wilcoxon rank-sum, Cohen's d, BH-FDR correction
