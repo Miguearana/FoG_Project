@@ -1,9 +1,23 @@
-# FoG_Project
-EEG-Based Detection of Freezing of Gait in Parkinson’s Disease using multimodal machine learning (EEG, EMG, IMU), temporal cross-validation, and patient-specific cortical analysis.
+# FoG Detection — Multimodal ML for Parkinson’s Disease
 
-# Multimodal Characterization and Detection of Freezing of Gait in Parkinson's Disease
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![AUC](https://img.shields.io/badge/Best%20AUC-0.940-brightgreen)
 
-**Author:** Miguel Arana Salas
+EEG-based detection of Freezing of Gait (FoG) in Parkinson’s Disease using multimodal machine learning — integrating EEG, EMG, and IMU signals with temporal cross-validation and patient-specific cortical analysis.
+
+**Author:** Miguel Arana Salas — [LinkedIn](https://linkedin.com/in/miguel-arana-salas-b725bb348) | Research Internship: SUPSI MeDiTech, 2026
+
+---
+
+## Results
+
+| Validation Strategy | Modality | AUC |
+|---|---|---|
+| Within-patient (temporal CV) | Multimodal (EEG + EMG + IMU) | **0.940** |
+| Leave-one-patient-out (LOPO) | EEG only | 0.521 |
+
+---
 
 A multimodal machine learning framework for the characterization and offline detection
 of Freezing of Gait (FoG) episodes in Parkinson's disease, integrating cortical EEG,
